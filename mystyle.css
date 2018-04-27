@@ -1,0 +1,17 @@
+a {
+    font-size: 36px;
+    font-weight: bolder;
+}
+
+a:focus {
+    background-color: olivedrab;
+}
+
+a:hover {
+    background-color: peru;
+}
+
+a:active {
+    font-size: 100px;
+}
+
